@@ -3,3 +3,7 @@
 
 # python bytecode files
 *.pyc
+
+
+# ignore service_account.json
+clients/service_account.json
