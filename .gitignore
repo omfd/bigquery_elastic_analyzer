@@ -1,0 +1,5 @@
+# ignore the IDE folders
+.idea
+
+# python bytecode files
+*.pyc
